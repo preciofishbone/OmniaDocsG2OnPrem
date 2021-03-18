@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'OmniaDocsG2 Onprem'
+project = 'Omnia Onprem'
 copyright = '2021, PrecioFishbone'
 author = 'PrecioFishbone'
 
